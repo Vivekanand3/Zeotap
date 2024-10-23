@@ -1,4 +1,4 @@
-# Zeotap
+ZEOTAP
 
 1.Rule Engine with AST 
 Overview 
@@ -83,4 +83,4 @@ http://localhost:8080/api/rules
 Conclusion 
 This Rule Engine project demonstrates the use of Spring Boot and MongoDB to create a flexible rule 
 evaluation system. The modular structure of the codebase makes it easy to extend and maintain, 
-providing a robust foundation for future enhancements or integrations. 
+providing a robust foundation for future enhancements or integrations.
